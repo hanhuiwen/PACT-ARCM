@@ -1,7 +1,7 @@
 # Architectural Responsibility Configuration (ARCM)
 ## A Responsibility-Oriented Theory for Multi-View Architecture Descriptions
 
-**Author:** Huiwen Han (韩慧雯)
+**Author:** Huiwen Han (韩会文)
 **Date:** February 2026
 
 ---
