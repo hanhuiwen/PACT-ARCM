@@ -36,5 +36,3 @@ This paper introduces **Architectural Responsibility Configuration (ARCM)**, a r
 
 ---
 
-### ACM Reference Format / ACM 引用格式
-Huiwen Han. 2026. Architectural Responsibility Configuration (ARCM): A Responsibility-Oriented Theory for Multi-View Architecture Descriptions. *ACM Trans. Softw. Eng. Methodol.* 1, 1 (February 2026), 17 pages. https://doi.org/10.1145/nnnnnnn.nnnnnnn
